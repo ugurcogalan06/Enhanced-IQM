@@ -1,4 +1,4 @@
-This is the official repository for the implementation of the paper: Enhancing image quality prediction with self-supervised visual masking
+This is the official repository for the implementation of the paper: "Enhancing image quality prediction with self-supervised visual masking".
 You can find the paper here: https://arxiv.org/abs/2305.19858
 
 The code for the enhanced metric for MAE can be run simply with:
