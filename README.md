@@ -6,6 +6,8 @@ The code for the enhanced metric for MAE can be run simply with:
 python Masked_L1.py --ref images/ref.BMP --dist images/dist.BMP
 ```
 
+The code was tested under Debian GNU/Linux 11.
+
 Dependencies:
 
 pytorch-cuda==11.7
