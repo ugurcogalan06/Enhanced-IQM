@@ -1,7 +1,7 @@
 This is the official repository for the implementation of the paper: Enhancing image quality prediction with self-supervised visual masking
 You can find the paper here: https://arxiv.org/abs/2305.19858
 
-The code can be run simply with:
+The code for the enhanced metric for MAE can be run simply with:
 ```bash
 python Masked_L1.py --ref images/ref.BMP --dist images/dist.BMP
 ```
