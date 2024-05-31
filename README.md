@@ -29,7 +29,7 @@ torchvision==0.14.0
 
 pillow==9.2.0
 
-Please cite our paper:
+For the citation:
 
 ```bash
 @misc{çoğalan2024enhancing,
