@@ -28,3 +28,16 @@ numpy==1.23.3
 torchvision==0.14.0
 
 pillow==9.2.0
+
+Please cite our paper:
+
+```bash
+@misc{çoğalan2024enhancing,
+      title={Enhancing image quality prediction with self-supervised visual masking}, 
+      author={Uğur Çoğalan and Mojtaba Bemana and Hans-Peter Seidel and Karol Myszkowski},
+      year={2024},
+      eprint={2305.19858},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
